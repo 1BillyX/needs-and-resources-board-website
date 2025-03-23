@@ -84,7 +84,13 @@ export const contentData: Content = {
             "address": "3182 Horten",
             "googleMaps": "https://g.co/kgs/rvLnZtv",
             "phone": null
+        },
+        {
+            "city": "Norway",
+            "venue": "Det Gule Hus",
+            "address": "Møllergata 10, 3111 Tønsberg",
+            "googleMaps": "https://g.co/kgs/mgNf4Q5",
+            "phone": null
         }
-        // Add more locations as needed
     ],
 }
