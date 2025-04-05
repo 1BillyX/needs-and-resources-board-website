@@ -24,7 +24,7 @@ export function Page() {
     }
 
     const handleContactClick = () => {
-        window.location.href = "mailto:unconditional@needsandresourcesboard.org"
+        window.location.href = "mailto:needsandresourcesboard.org@gmail.com"
     }
 
     return (

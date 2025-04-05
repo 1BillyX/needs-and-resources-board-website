@@ -19,7 +19,7 @@ export const Contact = () => {
 
     const handleContactSubmit = (e: FormEvent) => {
         e.preventDefault()
-        const mailtoLink = `mailto:unconditional@needsandresourcesboard.org?subject=${encodeURIComponent(
+        const mailtoLink = `mailto:needsandresourcesboard.org@gmail.com?subject=${encodeURIComponent(
             formData.subject
         )}&body=${encodeURIComponent(
             `Name: ${formData.name}\nEmail: ${formData.email}\n\nMessage:\n${formData.message}`
